@@ -1,2 +1,4 @@
 # Scraping_tutorial
-scraping_project
+File contains
+- Scraping with request
+- Scraping with selenium
